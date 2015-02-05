@@ -1,0 +1,1 @@
+C:\xampp\htdocs\jotus_a\app/views/recordcovers/create.blade.php
